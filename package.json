@@ -38,7 +38,7 @@
     "sprity"
   ],
   "dependencies": {
-    "canvas": "1.2.2",
+    "canvas": "*",
     "bluebird": "^2.9.24"
   },
   "devDependencies": {
